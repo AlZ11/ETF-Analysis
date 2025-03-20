@@ -1,4 +1,4 @@
-# EFT Analysis
+# ETF Analysis
 ## About the project
 
 

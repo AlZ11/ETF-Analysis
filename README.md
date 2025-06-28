@@ -6,24 +6,22 @@ This project follows the full data-science lifecycle—collecting and cleaning h
 
 The model consists of 3 parts beyond the cleaning and EDA:
 
-`Moving average analysis`
-`ARIMA forecasting`
+`Moving average analysis`  
+`ARIMA forecasting`  
 `Markowitz modern portfolio optimization`
 
 
 ## Built with
-* pandas
-(https://pandas.pydata.org)
-* numpy
-(https://numpy.org)
-* matplotlib
-(https://matplotlib.org)
-* statsmodels
-(https://www.statsmodels.org)
-
-
+* [pandas](https://pandas.pydata.org)
+* [numpy](https://numpy.org)
+* [matplotlib](https://matplotlib.org)
+* [plotly](https://plotly.com)
+* [statsmodels](https://www.statsmodels.org)
 
 ## Demo
+
+## Usage
+Please run `cleaning.ipynb` and make sure `master_df.pkl` is present in the cwd, this is the clean & wrangled data source that will be used across all other notebook files.
 
 Data from https://www.kaggle.com/datasets/benjaminpo/s-and-p-500-with-dividends-and-splits-daily-updated/data
 
